@@ -1,0 +1,7 @@
+<!-- Use a local repository URL -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://localhost:8081/repository/maven-public/org/springframework/spring-beans/5.3.10/spring-beans-5.3.10.xsd">
+   <!-- Your bean definitions go here -->
+</beans>
